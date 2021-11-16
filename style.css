@@ -1,0 +1,30 @@
+body {
+	background: lightblue;
+}
+#h3 {
+    font-weight: bold;
+	font-size: 73px;
+}
+#h3 {
+    font-weight: bold;
+	font-size: 53px;
+}
+#player1{
+    background: teal;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+#player2{
+    background: thistle;
+	border-radius: 10px;
+	border-top: 10px solid #bc8779;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+#button1{
+    width: 120px; ;
+}
